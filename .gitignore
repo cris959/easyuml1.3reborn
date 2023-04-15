@@ -9,7 +9,8 @@
 /UMLReverseEngineering/nbproject/private/
 /UMLProjectType/nbproject/private/
 /easyUML/nbproject/private/
-/build/
+/build/*
+!/build/updates/
 /JavaParser/build/
 /UMLModel/build/
 /dom4j/build/
